@@ -30,3 +30,7 @@
 p::first-letter {
     font-size: 40px;
 }
+
+li:first-child {
+font-weight: bold;
+}
